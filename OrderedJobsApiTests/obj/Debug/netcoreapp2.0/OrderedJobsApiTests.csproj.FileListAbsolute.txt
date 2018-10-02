@@ -1,0 +1,14 @@
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/bin/Debug/netcoreapp2.0/OrderedJobsApiTests.deps.json
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/bin/Debug/netcoreapp2.0/OrderedJobsApiTests.runtimeconfig.json
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/bin/Debug/netcoreapp2.0/OrderedJobsApiTests.runtimeconfig.dev.json
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/bin/Debug/netcoreapp2.0/OrderedJobsApiTests.dll
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/bin/Debug/netcoreapp2.0/OrderedJobsApiTests.pdb
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/obj/Debug/netcoreapp2.0/OrderedJobsApiTests.csproj.CoreCompileInputs.cache
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/obj/Debug/netcoreapp2.0/OrderedJobsApiTests.AssemblyInfoInputs.cache
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/obj/Debug/netcoreapp2.0/OrderedJobsApiTests.AssemblyInfo.cs
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/obj/Debug/netcoreapp2.0/OrderedJobsApiTests.dll
+/Users/leah/RiderProjects/OrderedJobsApiTests/OrderedJobsApiTests/obj/Debug/netcoreapp2.0/OrderedJobsApiTests.pdb
